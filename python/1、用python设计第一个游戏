@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# 用python 设计的第一个游戏
+"""用python 设计的第一个游戏"""
 
 temp = input("不妨猜一下小甲鱼现在心里想的是哪个数字：")
 guess = int(temp)
